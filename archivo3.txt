@@ -1,1 +1,2 @@
 Este archivo fue creado en la rama DEV_from_qa y al momento de su creacion no se encuentra en la rama main
+Se agrega linea de texto para genera cambios en este archivo y llevarlos a la rama local
